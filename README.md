@@ -1,0 +1,2 @@
+# vela_astrobox_DICT_bandpro_miband10p
+AstroBox resource of DICT英汉词典
