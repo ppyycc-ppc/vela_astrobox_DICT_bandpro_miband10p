@@ -1,0 +1,33 @@
+{
+  "item": {
+    "id": "com.ppyycc.dict",
+    "restype": "quick_app",
+    "name": "DICT英汉词典",
+    "description": "一个英汉双语的词典，由@ppyycc开发，Deepseek Harness辅助开发。含6w+英文单词，千条常用短语，15篇精选文章。\n本快应用完全免费，并将于GitHub开源，感兴趣的开发者可以前往查看。",
+    "preview": [
+      "media/Vela_Virtual_Device-2026-09-24-19-10-21.png",
+      "media/Vela_Virtual_Device-2026-09-24-19-10-54.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "ppyycc",
+        "bindABAccount": true
+      },
+      {
+        "name": "Deepseek Harness（辅助开发）",
+        "bindABAccount": false
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.1.1b",
+      "file_name": "downloads/com.ppyycc.dict.release.1.1.1b.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
